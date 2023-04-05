@@ -6,5 +6,5 @@
 
 ### 第一次作业
 
-1. [西游记名词统计图](./jsjkx/P1-wordcloud.html)
+1. [西游记名词统计图](./P1-wordcloud.html)
 说明:用jieba和pyecharts做出了关于西游记里名词的词频图.
